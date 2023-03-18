@@ -94,7 +94,8 @@ button:hover{
 	border-image-width: 356px 200px;
 	border-image-slice: 0 100% 0 100%;
 	border-image-outset: 356px 0;
-}
+  }
+
 
 img {
 	border: 5px solid black;
