@@ -91,7 +91,7 @@ button:hover{
 	border-image-source: url(MaxHat.jpg);
 	border-image-repeat: round;
 	border-image-source: 100%;
-	border-image-width: 356px 200px;
+	border-image-width: 20%;
 	border-image-slice: 0 100% 0 100%;
 	border-image-outset: 356px 0;
   }
